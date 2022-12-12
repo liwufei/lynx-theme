@@ -1,2 +1,1 @@
-# lynx-theme
-Lynx theme website
+# lynx theme
