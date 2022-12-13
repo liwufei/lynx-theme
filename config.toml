@@ -1,0 +1,4 @@
+baseURL = 'https://lynx-theme.netlify.app'
+languageCode = 'en-US'
+title = 'Lynx theme'
+theme = 'lynx'
